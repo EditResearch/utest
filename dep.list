@@ -1,0 +1,2 @@
+.cache/utest.o: src/utest.c src/utest.h
+.cache/test.o: test/test.c
